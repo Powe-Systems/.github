@@ -33,7 +33,6 @@ Sem template genérico. Cada projeto nasce do problema real do cliente.
 ## 🚀 Nossos produtos
 
 - **Powe.IO**: nosso site institucional e porta de entrada para novos projetos.
-- **ToAgendado**: agendamento de horários para barbearias e salões, direto pelo WhatsApp.
 - **Painéis**: área administrativa para gerenciar clientes, produtos, leads e configurações.
 
 ## 🧱 Tecnologias que usamos
